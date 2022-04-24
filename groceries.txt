@@ -1,3 +1,4 @@
 onions
 milk
 butter
+eggs
